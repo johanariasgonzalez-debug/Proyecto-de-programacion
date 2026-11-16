@@ -1,7 +1,9 @@
 # Proyecto-de-programacion
 Joshua Araya Mora 208960746
 Johan Arias González 208860571
+
 Manual de uso: Sistema de Planilla Hospitalaria
+
 Este programa sirve para registrar al personal de un hospital (médicos, enfermeros y administrativos) y calcular lo que cada uno debe recibir de salario.
 Antes de empezar
 El programa guarda todo por sí solo en archivos de texto que se crean en su misma carpeta:
